@@ -12,7 +12,7 @@ h1 {color: brown;
     transform: translate(-50%, -50%);
     animation: animacao-texto 5s infinite alternate;
 }
-
+ 
 @keyframes animacao-texto {
     0% {
         transform: translateX(20px);

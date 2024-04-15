@@ -5,11 +5,11 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual o melhor time?");
+    var respostaTime = prompt("Qual o valor de 3 casas aproximado de π?");
 
     
     if (respostaTime.toLowerCase() === "athlético pr") {
-      alert("Isso mesmo! O Athlético PR é o melhor time!");
+      alert("Isso mesmo! Boa");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");

@@ -3,8 +3,13 @@ body {
 }
 
 h1 h2 {
-    text-align: top center;
+    text-align: center 50%;
+    text-align: left 50%;
     color: azure;
+}
+
+img {
+    width: 30%;
 }
 
 #texto-animado {

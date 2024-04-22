@@ -2,10 +2,11 @@ body {
     background-color: #000;
 }
 
-h1 {
+h1 h2 {
     text-align: top center;
     color: azure;
 }
+
 #texto-animado {
     font-family: 'Arial', sans-serif;
     font-size: 48px;

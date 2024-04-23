@@ -23,6 +23,7 @@ img {
     left: 50%;
     transform: translate(-50%, -50%);
     animation: animacao-texto 5s infinite alternate;
+    width: 50%;
 }
 
 @keyframes animacao-texto {

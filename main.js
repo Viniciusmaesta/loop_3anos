@@ -12,7 +12,7 @@ function verificarTime() {
       alert("Isso mesmo! Parabéns!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
-      alert("Não é isso! Tente novamente.");
+      alert("Não é isso! Dica: tem 3 casas.");
     }
   } 
 }

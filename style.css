@@ -7,13 +7,10 @@ h1 h2 {
     color: azure;
 }
 
-img {
-    width: 20%;
-}
 
 #texto-animado {
     font-family: 'Arial', sans-serif;
-    font-size: 48px;
+    width: 100%;
     font-weight: bold;
     color: aliceblue;
     text-align: center;

@@ -10,6 +10,7 @@ h1 h2 {
 #texto-animado {
     font-family: 'Arial', sans-serif;
     font-weight: bold;
+    font-size: 20%;
     color: aliceblue;
     text-align: center;
     position: absolute;
